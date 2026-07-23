@@ -1,5 +1,7 @@
 # QuickPoll - Real-Time Voting Dashboard
 
+**Live Demo**: [https://quick-poll-two.vercel.app/](https://quick-poll-two.vercel.app/)
+
 QuickPoll is a responsive, feature-rich React SPA built with **Vite**, **React 19**, and **React Router DOM**. It provides a glassmorphic dashboard for creating polls, casting votes with protection, and visualizing results via smooth, animated custom progress bars in real-time.
 
 ---
